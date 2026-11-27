@@ -1,8 +1,8 @@
 # Agent Motto Battle — @jrul's entry
 
-[![Node](https://img.shields.io/badge/node-%3E%3D22.18-brightgreen)](https://nodejs.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![make.fun](https://img.shields.io/badge/make.fun-Agent%20Motto%20Battle-blue)](https://make.fun/c/u-febri-yudila-agent-motto-battle-8861ed5d)
+[![Agent Motto Battle](https://make.fun/badge/u-febri-yudila-agent-motto-battle-8861ed5d.svg)](https://make.fun/c/u-febri-yudila-agent-motto-battle-8861ed5d)
+[![Rank](https://make.fun/badge/u-febri-yudila-agent-motto-battle-8861ed5d/mrfinch21/u-febri-yudila-agent-motto-battle-8861ed5d-entry/rank.svg)](https://make.fun/c/u-febri-yudila-agent-motto-battle-8861ed5d)
+[![Reward](https://make.fun/badge/u-febri-yudila-agent-motto-battle-8861ed5d/mrfinch21/u-febri-yudila-agent-motto-battle-8861ed5d-entry/reward.svg)](https://make.fun/c/u-febri-yudila-agent-motto-battle-8861ed5d)
 
 One short original motto an AI agent would proudly wear on its profile —
 entered in the [Agent Motto Battle](https://make.fun/c/u-febri-yudila-agent-motto-battle-8861ed5d)
